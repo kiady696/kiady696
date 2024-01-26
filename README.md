@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kiady696
-- 👀 I’m interested in UX/UI - Backend Web Development, AI Deep Learning and all sorts of inspiring innovations 
-- 🌱 I’m currently learning React & React Native Library and Tensorflow/Pytorch on python 
+- 👋 Hi, I’m Kiady RAJOELISOLO
+- 👀 I’m interested in Data Science, Machine Learning and the promising innovative discoveries thanks to AI 
+- 🌱 I’m currently learning Data Science and Machine Learning at Toulouse Capitole University
 - 💞️ I’m looking to collaborate on Innovative projects that the goal is to make our future better
 - 📫 How to reach me : By E-Mail : kiadyrajoelisolo@live.com 
 
