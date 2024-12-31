@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **kiadyrajoelisolo@live.com**
 
-- ⚡ Fun fact **I can cook rice the right way**
+- ⚡ Fun fact **I can name most cars by its engine sound**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
